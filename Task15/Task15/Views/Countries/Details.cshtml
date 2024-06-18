@@ -1,24 +1,16 @@
-﻿@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
-@model Task15.Models.Entities.Country
-@{
-    Layout = null;
-}
+﻿
+@model Country
 
-<!DOCTYPE html>
 
-<html>
-<head>
-    <meta name="viewport" content="width=device-width" />
-    <title>Details</title>
-</head>
-<body>
-    <dl>
-        <dt>Name</dt>
-        <dd>@Model.Name</dd>
+<div class="row">
+    <div class="col-12">
+        <dl>
+            <dt>Name</dt>
+            <dd>@Model.Name</dd>
 
-        <dt>Code</dt>
-        <dd>@Model.Code</dd>
-    </dl>
-    <a asp-controller="Countries" asp-action="index">Return</a>
-</body>
-</html>
+            <dt>Code</dt>
+            <dd>@Model.Code</dd>
+        </dl>
+        <a asp-controller="Countries" asp-action="index">Return</a>
+    </div>
+</div>

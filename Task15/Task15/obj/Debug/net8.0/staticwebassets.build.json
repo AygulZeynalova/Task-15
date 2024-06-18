@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "9agb42DLqX/eFiaXJE8i2Uh1ORTQuanIGsao+HbSvr4=",
+  "Hash": "zjRcs/KYMI+ENR2xIPadZNxH0OnQhwHpmpxNkxw4NwQ=",
   "Source": "Task15",
   "BasePath": "_content/Task15",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "Task15\\wwwroot",
       "Source": "Task15",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\Task 15 New\\Task15\\Task15\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\Task 15\\Task15\\Task15\\wwwroot\\",
       "BasePath": "_content/Task15",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\Task 15 New\\Task15\\Task15\\wwwroot\\assets\\css\\style.css",
+      "Identity": "C:\\Users\\Asus\\Desktop\\Task 15\\Task15\\Task15\\wwwroot\\assets\\css\\style.css",
       "SourceId": "Task15",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\Task 15 New\\Task15\\Task15\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\Task 15\\Task15\\Task15\\wwwroot\\",
       "BasePath": "_content/Task15",
       "RelativePath": "assets/css/style.css",
       "AssetKind": "All",

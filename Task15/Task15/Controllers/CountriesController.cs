@@ -28,6 +28,11 @@ namespace Task15.Controllers
             return View(country);
         }
 
+        public IActionResult Edit()
+        {
+
+            return View();
+        }
         [HttpPost]
         public IActionResult Edit(Country model)
         {

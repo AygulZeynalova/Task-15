@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Asus\\Desktop\\Task 15 New\\Task15\\",
+  "WorkspaceRootPath": "C:\\Users\\Asus\\Desktop\\Task 15\\Task15\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0F87D085-2F53-406E-B652-5E97C58D4B10}|Task15\\Task15.csproj|c:\\users\\asus\\desktop\\task 15 new\\task15\\task15\\models\\contexts\\dataseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F87D085-2F53-406E-B652-5E97C58D4B10}|Task15\\Task15.csproj|solutionrelative:task15\\models\\contexts\\dataseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0F87D085-2F53-406E-B652-5E97C58D4B10}|Task15\\Task15.csproj|c:\\users\\asus\\desktop\\task 15 new\\task15\\task15\\models\\contexts\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F87D085-2F53-406E-B652-5E97C58D4B10}|Task15\\Task15.csproj|solutionrelative:task15\\models\\contexts\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0F87D085-2F53-406E-B652-5E97C58D4B10}|Task15\\Task15.csproj|c:\\users\\asus\\desktop\\task 15 new\\task15\\task15\\controllers\\countriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0F87D085-2F53-406E-B652-5E97C58D4B10}|Task15\\Task15.csproj|c:\\users\\asus\\desktop\\task 15\\task15\\task15\\controllers\\countriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0F87D085-2F53-406E-B652-5E97C58D4B10}|Task15\\Task15.csproj|solutionrelative:task15\\controllers\\countriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F87D085-2F53-406E-B652-5E97C58D4B10}|Task15\\Task15.csproj|c:\\users\\asus\\desktop\\task 15\\task15\\task15\\views\\countries\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F87D085-2F53-406E-B652-5E97C58D4B10}|Task15\\Task15.csproj|solutionrelative:task15\\views\\countries\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F87D085-2F53-406E-B652-5E97C58D4B10}|Task15\\Task15.csproj|c:\\users\\asus\\desktop\\task 15\\task15\\task15\\models\\entities\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F87D085-2F53-406E-B652-5E97C58D4B10}|Task15\\Task15.csproj|solutionrelative:task15\\models\\entities\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,40 +31,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "DataSeed.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Task 15 New\\Task15\\Task15\\Models\\Contexts\\DataSeed.cs",
-              "RelativeDocumentMoniker": "Task15\\Models\\Contexts\\DataSeed.cs",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\Task 15 New\\Task15\\Task15\\Models\\Contexts\\DataSeed.cs",
-              "RelativeToolTip": "Task15\\Models\\Contexts\\DataSeed.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAUAAAA",
+              "Title": "CountriesController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Task 15\\Task15\\Task15\\Controllers\\CountriesController.cs",
+              "RelativeDocumentMoniker": "Task15\\Controllers\\CountriesController.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Task 15\\Task15\\Task15\\Controllers\\CountriesController.cs",
+              "RelativeToolTip": "Task15\\Controllers\\CountriesController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAwwCgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-18T11:01:47.648Z",
+              "WhenOpened": "2024-06-18T15:41:37.853Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "DataContext.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Task 15 New\\Task15\\Task15\\Models\\Contexts\\DataContext.cs",
-              "RelativeDocumentMoniker": "Task15\\Models\\Contexts\\DataContext.cs",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\Task 15 New\\Task15\\Task15\\Models\\Contexts\\DataContext.cs",
-              "RelativeToolTip": "Task15\\Models\\Contexts\\DataContext.cs",
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Task 15\\Task15\\Task15\\Views\\Countries\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Task15\\Views\\Countries\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Task 15\\Task15\\Task15\\Views\\Countries\\Edit.cshtml",
+              "RelativeToolTip": "Task15\\Views\\Countries\\Edit.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-18T11:01:41.09Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-18T15:41:23.366Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "CountriesController.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Task 15 New\\Task15\\Task15\\Controllers\\CountriesController.cs",
-              "RelativeDocumentMoniker": "Task15\\Controllers\\CountriesController.cs",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\Task 15 New\\Task15\\Task15\\Controllers\\CountriesController.cs",
-              "RelativeToolTip": "Task15\\Controllers\\CountriesController.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Title": "Country.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Task 15\\Task15\\Task15\\Models\\Entities\\Country.cs",
+              "RelativeDocumentMoniker": "Task15\\Models\\Entities\\Country.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Task 15\\Task15\\Task15\\Models\\Entities\\Country.cs",
+              "RelativeToolTip": "Task15\\Models\\Entities\\Country.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-18T11:01:10.206Z",
+              "WhenOpened": "2024-06-18T15:40:40.969Z",
               "EditorCaption": ""
             }
           ]

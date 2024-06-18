@@ -17,27 +17,39 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Task15
 build_property.RootNamespace = Task15
-build_property.ProjectDir = C:\Users\Asus\Desktop\Task 15 New\Task15\Task15\
+build_property.ProjectDir = C:\Users\Asus\Desktop\Task 15\Task15\Task15\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Asus\Desktop\Task 15 New\Task15\Task15
+build_property.MSBuildProjectDirectory = C:\Users\Asus\Desktop\Task 15\Task15\Task15
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Asus/Desktop/Task 15 New/Task15/Task15/Views/Countries/Create.cshtml]
+[C:/Users/Asus/Desktop/Task 15/Task15/Task15/Views/Countries/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291bnRyaWVzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Asus/Desktop/Task 15 New/Task15/Task15/Views/Countries/Details.cshtml]
+[C:/Users/Asus/Desktop/Task 15/Task15/Task15/Views/Countries/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291bnRyaWVzXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Asus/Desktop/Task 15 New/Task15/Task15/Views/Countries/Edit.cshtml]
+[C:/Users/Asus/Desktop/Task 15/Task15/Task15/Views/Countries/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291bnRyaWVzXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Asus/Desktop/Task 15 New/Task15/Task15/Views/Countries/Index.cshtml]
+[C:/Users/Asus/Desktop/Task 15/Task15/Task15/Views/Countries/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291bnRyaWVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Desktop/Task 15/Task15/Task15/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Desktop/Task 15/Task15/Task15/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Desktop/Task 15/Task15/Task15/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
