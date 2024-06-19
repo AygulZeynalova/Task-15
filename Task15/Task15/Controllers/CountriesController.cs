@@ -28,11 +28,13 @@ namespace Task15.Controllers
             return View(country);
         }
 
-        public IActionResult Edit()
+        public IActionResult Edit(int id)
         {
+            var country = db.Countries.Where(m => m.Id == id).FirstOrDefault();
 
-            return View();
+            return View(country);
         }
+
         [HttpPost]
         public IActionResult Edit(Country model)
         {
